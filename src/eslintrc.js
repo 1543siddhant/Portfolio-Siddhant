@@ -1,0 +1,10 @@
+module.exports = {
+    parser: "babel-eslint",
+    plugins: [
+      "babel"
+    ],
+    rules: {
+      "babel/semi": 1
+    }
+  };
+  
