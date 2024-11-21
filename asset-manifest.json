@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Portfolio-Siddhant/static/css/main.bf538fe7.css",
+    "main.js": "/Portfolio-Siddhant/static/js/main.b470ce33.js",
+    "static/media/sidd.jpeg": "/Portfolio-Siddhant/static/media/sidd.4959fc456e12eddca2e5.jpeg",
+    "index.html": "/Portfolio-Siddhant/index.html",
+    "main.bf538fe7.css.map": "/Portfolio-Siddhant/static/css/main.bf538fe7.css.map",
+    "main.b470ce33.js.map": "/Portfolio-Siddhant/static/js/main.b470ce33.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.b470ce33.js"
+  ]
+}
